@@ -1,0 +1,30 @@
+th{
+    background-color:#08aebd ;
+    color: #ffffff;
+    border-color: #27d3e3;
+    padding: 5px;
+    font-weight: 800;
+    font-size: 26px;
+    
+}
+
+table{
+    border-style: solid;
+    border-collapse: collapse;
+    border-width: 3px;
+    font-family: Helvetica, sans-serif;
+    border-color: #27d3e3;
+    font-weight: 800;
+}
+
+td{
+    padding: 8px;
+}
+
+h1{
+    color: #5a5e5e;
+    font-family: Helvetica, sans-serif;
+    font-weight: 800;
+    font-size: 35px;
+    text-decoration: underline;
+}
